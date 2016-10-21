@@ -25,7 +25,7 @@
     <distributionManagement>
         <repository>
             <id>thirdparty</id>
-            <url>http://122.225.193.233:8081/nexus/content/repositories/thirdparty/</url>
+            <url>http://[yournexus]/nexus/content/repositories/thirdparty/</url>
         </repository>
     </distributionManagement>
 
