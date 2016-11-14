@@ -8,9 +8,7 @@
 
 默认loggerFactory选择替换为直接选择slf4j协议,自动托管到classpath下实现日志框架.
 
-具体内容来自zkclient的一个n没有被接受的基于gradle的PR
-
-本项目没有进行fork深感抱歉
+具体内容来自zkclient的一个没有被接受的基于gradle的PR
 
 ## 更改源代码
 
